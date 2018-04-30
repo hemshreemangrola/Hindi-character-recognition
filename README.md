@@ -1,3 +1,3 @@
-# Hindi-Alphabet-recognition
+# Fashion-MNIST-recognition
 <p>
-Used: Convolutional Neural Network and tensorflow 
+Implemented Convolutional Neural Network using tensorflow in python
